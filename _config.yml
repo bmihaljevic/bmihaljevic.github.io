@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : ""Bojan Mihaljević"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Artificial intelligence researcher"
   location         : "Madrid"
   employer         :
   pubmed           : #""
@@ -106,7 +106,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-1656-6135"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/2324814/bojan"
+  stackoverflow    : "2324814/bojan"
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
