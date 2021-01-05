@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Post-doctoral researcher interested in learning Bayesian networks from data as well as applied machine learning, especially in neuroscience. Published eight papers in top journals as first author, with over [80 citations](https://scholar.google.es/citations?user=o1ZNZlMAAAAJ&hl=es). Have given invited talks at conferences and workshops and have done peer reviewer for a number of journals (Machine Learning, PLos ONE, Neuroinformatifcs...).
+Post-doctoral researcher interested in learning Bayesian networks from data as well as applied machine learning, especially in neuroscience. Published eight papers in top journals as first author, with over [80 citations](https://scholar.google.es/citations?user=o1ZNZlMAAAAJ&hl=es). Have given invited talks at conferences and workshops and have done peer reviewer for a number of journals (Machine Learning, PLOS ONE, Neuroinformatics, ...).
 
 Author of the bnclassify R package for learning Bayesian network classifiers. Strong programming skills in R and Java; to a somewhat lesser extent in C++, python and bash. Strong software engineering skills.
 
