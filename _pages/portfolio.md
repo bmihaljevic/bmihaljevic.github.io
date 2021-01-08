@@ -14,5 +14,5 @@ State-of-the art algorithms for learning discrete Bayesian network classifiers f
 
 The package has been downloaded over 21 thousand times (in September 2019) from the RStudio mirror of the Comprehensive R Archive Network (CRAN), with roughly a thousand downloads per package update.
 
-Implemented in R and C++. See the Github page for issues and contibution and the paper and vignettes for details.
+Implemented in R and C++. See the Github [page](https://github.com/bmihaljevic/bnclassify) for issues and contibution and the [paper](https://journal.r-project.org/archive/2018/RJ-2018-073/index.html) and vignettes for details.
 
