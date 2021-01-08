@@ -75,8 +75,10 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-8CXV15QLSH
 
+# Google Analytics
+google_analytics: G-8CXV15QLSH
 
 # Site Author
 author:
