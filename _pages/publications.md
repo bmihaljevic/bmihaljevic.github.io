@@ -13,13 +13,15 @@ author_profile: true
 
 ## Journal papers
 
-- Bojan Mihaljević, Pedro Larrañaga, Ruth Benavides-Piccione, Javier DeFelipe, and Concha Bielza. Comparing basal dendrite branches in human and mouse hippocampal CA1 pyramidal neurons with Bayesian networks. Scientific Reports 10, 18592, 2020.
-- Mihaljević, B., Benavides-Piccione, P., Bielza, C., Larrañaga, P., and DeFelipe, J. “Classification of GABAergic interneurons by leading neuroscientists”. Scientific Data 6, Article number: 221, 2019.
-- Mihaljević, B., Bielza, C., and Larrañaga, P."bnclassify: Learning Bayesian Network Classifiers." The R Journal, vol. 10, no. 2, pp. 455–468, 2018
-- Mihaljević, B., Larrañaga, P., Benavides-Piccione, R., Hill, S., DeFelipe, J., and Bielza, C. “Towards a supervised classification of neocortical interneuron morphologies“, BMC Bioinformatics, vol. 19, no. 1, pp. 511, 2018
-- Mihaljević, B., Benavides-Piccione, R., Guerra, L., DeFelipe, J., Larrañaga, P., Bielza, C. Classifying GABAergic interneurons with semi-supervised projected model-based clustering. Artificial Intelligence in Medicine, vol. 65, pp. 49-59, 2015,
-- Mihaljević, B., Benavides-Piccione, R., Bielza, C., DeFelipe, J., Larrañaga, P. Bayesian network classifiers for categorizing cortical GABAergic interneurons. Neuroinformatics, vol. 13, no. 2, pp. 192–208, April, 2015.
-- Mihaljević, B., Bielza, C., Benavides-Piccione, R., DeFelipe, J., Larrañaga, P. Multi-expert multi-dimensional classification of GABAergic interneurons with label Bayesian networks. Frontiers in Computational Neuroscience, vol. 8, pp. Article 150, 2014.
+- B. Mihaljević, C. Bielza, and P. Larrañaga. Bayesian networks for interpretable machine learning and optimization. Neurocomputing, 456:648–665, 2021. 
+- B. Mihaljević, P. Larrañaga, and C. Bielza. [Comparing the electophysiology and morphology of human and mouse layer 2/3 pyramidal neurons with Bayesian networks](https://www.frontiersin.org/article/10.3389/fninf.2021.580873). Frontiers in Neuroinformatics, 15:3, 2021. 
+- B. Mihaljević, P. Larrañaga, R. Benavides-Piccione, J. DeFelipe, and C. Bielza. Comparing basal dendrite branches in human and mouse hippocampal CA1 pyramidal neurons with Bayesian networks. Scientific Reports, 10(1):18592, 2020.
+- B. Mihaljević, R. Benavides-Piccione, C. Bielza, P. Larrañaga, and J. DeFelipe. Classification of GABAergic interneurons by leading neuroscientists. Scientific Data, 6(1):1–6, 2019a.
+- B. Mihaljević, P. Larrañaga, R. Benavides-Piccione, S. Hill, J. DeFelipe, and C. Bielza. Towards a supervised classification of neocortical interneuron morphologies. BMC Bioinformatics, 19(1): 511, 2018. 
+- B. Mihaljević, C. Bielza, and P. Larrañaga. [bnclassify: Learning Bayesian network classifiers](https://doi.org/10.32614/RJ-2018-073). The R Journal, 10(2):455–468, 2018. 
+- B. Mihaljević, R. Benavides-Piccione, C. Bielza, J. DeFelipe, and P. Larrañaga. Bayesian network classifiers for categorizing cortical GABAergic interneurons. Neuroinformatics, 13(2):192–208, 2015a.
+- B. Mihaljević, R. Benavides-Piccione, L. Guerra, J. DeFelipe, P. Larrañaga, and C. Bielza. Classifying GABAergic interneurons with semi-supervised projected model-based clustering. Artificial Intelligence in Medicine, 65(1):49–59, 2015b.
+- B. Mihaljević, C. Bielza, R. Benavides-Piccione, J. DeFelipe, and P. Larrañaga. Multi-dimensional classification of GABAergic interneurons with Bayesian network-modeled label uncertainty. Frontiers in Computational Neuroscience, 8:150, 2014. 
 
 ## Book chapters
 
