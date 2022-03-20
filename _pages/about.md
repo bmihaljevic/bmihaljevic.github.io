@@ -12,6 +12,6 @@ AI researcher interested in Bayesian networks, and graphical models in general, 
 
 Author of the [bnclassify](https://cran.r-project.org/web/packages/bnclassify/index.html) R package for learning Bayesian network classifiers. Strong programming skills in R and Java; to a somewhat lesser extent in C++, python and bash. Strong software engineering skills.
 
-Experience teaching artificial intelligence, machine learning and probability and statistics courses at the undergraduate and master's level, in both English and Spanish. Over 90 lecture hours taught in standalone workshops and courses, including at institutions such as the Real Academia de Ingenierı́a. Have been coordinating the [Machine Learning and Advanced Statistics](http://dia.fi.upm.es/es/MLAS) summer school since 2014. 
+Experience teaching artificial intelligence, machine learning and statistics courses at the undergraduate and master's level, in both English and Spanish. Over 90 lecture hours taught in standalone workshops and courses, including at institutions such as the Real Academia de Ingenierı́a. Have been coordinating the [Machine Learning and Advanced Statistics](http://dia.fi.upm.es/es/MLAS) summer school since 2014. 
 
 A year's experience working as data science consultant in real estate appraisal and five years' experience as a Java developer in the industry.
