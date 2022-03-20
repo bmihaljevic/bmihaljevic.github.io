@@ -25,13 +25,16 @@ author_profile: true
 
 ## Book chapters
 
-- Mihaljević, B., Bielza, C., and Larrañaga, P. (2018). Learning Bayesian network classifiers with completed partially directed acyclic graphs. In Kratochvíl, V. and Studený, M., editors, Proceedings of the Ninth International Conference on Probabilistic Graphical Models , volume 72 of Proceedings of Machine Learning Research, pages 272–283, Prague, Czech Republic
-- Mihaljevic, B., Larrañaga, P. & Bielza, C (2013). Augmented Semi-naive Bayes Classifier. In C. Bielza et al. (editor), Advances in Artificial Intelligence, Proceedings of the 15th MultiConference of the Spanish Association for Artificial Intelligence, LNAI 8109, pages 159-167. Springer.
+- B. Mihaljević, C. Bielza, and P. Larrañaga. Learning Bayesian network classifiers with completed partially directed acyclic graphs. In V. Kratochvı́l and M. Studený, editors, Proceedings of the Ninth International Conference on Probabilistic Graphical Models, volume 72 of Proceedings of Machine Learning Research, pages 272–283, Prague, Czech Republic, 11–14 Sep 2018
+- B. Mihaljevic, P. Larrañaga, and C. Bielza. Augmented Semi-naive Bayes Classifier. In C. Bielza, A. Salmerón, A. Alonso-Betanzos, J. I. Hidalgo, L. Martı́nez, A. Troncoso, E. Corchado, and J. M.  Corchado, editors, Advances in Artificial Intelligence, pages 159–167, Berlin, Heidelberg, 2013. 
+
 
 ## Workshop papers & conference abstracts
 
-- Mihaljevic, B., Larrañaga, P. & Bielza, C (2016). Automatic classification of cortical interneuron morphologies. Proceedings of the Workshop on Advances and Applications of Data Science & Engineering, Real Academia de Ingenieria, 2016, Madrid
-- Mihaljevic, B., Bielza, C. & Larrañaga, P. (2013). BayesClass: An R package for learning Bayesian network classifiers. Proceedings of UseR! –The R User Conference 2013, 53
+- B. Mihaljević, P. Larrañaga, and C. Bielza. Automatic classification of cortical interneuron morphologies. In Proceedings of the Workshop on Advances and Applications of Data Science & Engineering, Real Academia de Ingenierı́a, Madrid, 2016
+
+- B. Mihaljevic, C. Bielza, and P. Larrañaga. BayesClass: an R package for learning Bayesian network classifiers. Proceedings of useR!, page 53, 2013 
+
 
 <!--
 {% for post in site.publications reversed %}
