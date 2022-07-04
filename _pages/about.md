@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-AI researcher interested in graphical models, and in particular in Bayesian networks, as well as applied machine learning, especially in neuroscience. First author of nine papers in top journals, with an h-index of 8 and over [130 citations](https://scholar.google.es/citations?user=o1ZNZlMAAAAJ&hl=es). Have given invited talks at conferences and workshops and done peer reviewer for a number of journals (Journal of Machine Learning Research, Machine Learning, ...).
+AI researcher interested in graphical models, and in particular in Bayesian networks, as well as applied machine learning, especially in neuroscience. First author of nine papers in top journals, with an h-index of 8 and over [130 citations](https://scholar.google.es/citations?user=o1ZNZlMAAAAJ&hl=es). Have given invited talks at conferences and workshops, been a program comittee member for conferences (e.g., [DSAA 2021](https://dsaa2021.dcc.fc.up.pt/)) and done peer reviewer for a number of journals (e.g., Journal of Machine Learning Research, Machine Learning).
 
 Author of the [bnclassify](https://cran.r-project.org/web/packages/bnclassify/index.html) R package for learning Bayesian network classifiers. Strong programming skills in R and Java and to lesser extent in C++, python and bash. Strong software engineering skills.
 
