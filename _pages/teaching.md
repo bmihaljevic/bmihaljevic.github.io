@@ -30,10 +30,9 @@ author_profile: true
 
 ## Summer schools
 
-- 2015-2019 **Bayesian networks**, *Advanced Statistics and Data Mining summer school*, Universidad Politécnica
-de Madrid
-- 2014-2019 **Feature subset selection**, *Advanced Statistics and Data Mining summer school*, Universidad Politécnica
-- 2013-2015 **Bayesian network classifiers**, *Advanced Statistics and Data Mining summer school*, Universidad Politécnica
+- 2015-2019 **Bayesian networks**, *Advanced Statistics and Data Mining*, Universidad Politécnica de Madrid
+- 2014-2019 **Feature subset selection**, *Advanced Statistics and Data Mining*, Universidad Politécnica de Madrid
+- 2013-2015 **Bayesian network classifiers**, *Advanced Statistics and Data Mining*, Universidad Politécnica de Madrid
 
 
 ## Courses, workshops and tutorials
