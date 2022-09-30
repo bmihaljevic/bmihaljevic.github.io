@@ -9,6 +9,8 @@ author_profile: true
 
 ## Undergraduate courses
 
+- 2022-2023 **Machine Learning**, BSc in Data Science and Artificial Intelligence, Universidad Politécnica de Madrid
+- 2022-2023 **Logic**, BSc in Software Engineering, Universidad Politécnica de Madrid
 - 2021-2022 **Statistics**, BSc in Biology, Universidad Autónoma de Madrid
 - 2020-2022 **Probability and Statistics** (coordinator), BSc in Software Engineering, Universidad Autónoma de Madrid 
 - 2019-2020 **Data Mining**, BSc in Software Engineering, Universidad Politécnica de Madrid 
