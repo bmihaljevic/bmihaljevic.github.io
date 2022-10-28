@@ -37,6 +37,7 @@ author_profile: true
 
 ## Courses, workshops and tutorials
 
+- 2022 **Inferencia causal: una aproximación aplicada**, *BBVA AI FACTORY, S.L*, Madrid 
 - 2020 **A tutorial on Bayesian network classifiers**, *19th Mexican International Conference of Artificial Intelligence*, Online 
 - 2019 **A workshop on Bayesian networks**, *Analyx sp. z o.o. sp. k.*, Poznan 
 - 2018 **Bayesian networks with R**, *X Jornadas de Usuarios de R*, Universidad de Murcia, Murcia
