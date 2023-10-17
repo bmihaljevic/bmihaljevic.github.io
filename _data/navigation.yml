@@ -12,11 +12,11 @@ main:
   - title: "Software"
     url: /portfolio/
         
-    #  - title: "Blog"
-    #url: /year-archive/
-    
   - title: "CV"
     url: /cv/
+
+  - title: "Curso Power BI"
+    url: /powerbi/ 
     
     #  - title: "Guide"
     #url: /markdown/
