@@ -193,7 +193,7 @@ El curso tiene dos objetivos:
 - Formar a los estudiantes en el uso de Power BI para el análisis de datos;
 - Proporcionar los fundamentos teóricos del análisis de datos en el contexto de Business Intelligence. 
 
-Con "fundamentos teóricos" no nos refierimos a una introducción teórica a Business Intelligence, o su relación con objetivos de negocios, sino a la teoría subyacente a los métodos. Es decir, a conceptos de: 
+Con "fundamentos teóricos" no nos referimos a una introducción teórica a Business Intelligence, o su relación con objetivos de negocios, sino a la teoría subyacente a los métodos. Es decir, a conceptos de: 
 
 - a) ingeniería de datos, como data warehouse, ETL, modelado dimensional y lenguajes M y DAX, con especial énfasis en este último; 
 - b) minería de datos, como la visualización de datos; y 
@@ -219,15 +219,15 @@ El curso está dirigido a profesionales que tienen algo de experiencia en, o al 
 La duración del curso es de 21 horas, repartidas en 7 sesiones de 3 horas, a lo largo de 5 semanas. El curso arranca el 23 de noviembre y concluye el 19 de diciembre. Hay dos sesiones semanales, los días martes y jueves, menos el dia 4 de diciembre que es un lunes. 
 
 
-| Semana | Fecha       | Día de semana | Horario          | Tema |
-|------|------------|-------------|-------------------|---------|
-| 1    | 2023-11-23 | Jueves    | 19:00 - 22:00     | |
-| 2    | 2023-11-28 | Martes     | 19:00 - 22:00     | |
-| 2    | 2023-11-30 | Jueves    | 19:00 - 22:00     | |
-| 3    | 2023-12-04 | Lunes      | 19:00 - 22:00     | |
-| 4    | 2023-12-12 | Martes     | 19:00 - 22:00     | |
-| 4    | 2023-12-14 | Jueves    | 19:00 - 22:00     | |
-| 5    | 2023-12-19 | Martes     | 19:00 - 22:00     | | 
+| Semana | Fecha       | Día de semana | Horario          | 
+|------|------------|-------------|-------------------|
+| 1    | 2023-11-23 | Jueves    | 19:00 - 22:00     | 
+| 2    | 2023-11-28 | Martes     | 19:00 - 22:00     |
+| 2    | 2023-11-30 | Jueves    | 19:00 - 22:00     | 
+| 3    | 2023-12-04 | Lunes      | 19:00 - 22:00     |
+| 4    | 2023-12-12 | Martes     | 19:00 - 22:00     |
+| 4    | 2023-12-14 | Jueves    | 19:00 - 22:00     |
+| 5    | 2023-12-19 | Martes     | 19:00 - 22:00     |
 
 
 ## Modalidad
@@ -325,5 +325,5 @@ El contenido del curso estará disponible en línea por un período de tiempo li
 ## Contacto
 
 <a name="contact"></a>
-- Correo electónico: b.mihaljevic@upm.es
+- Correo electrónico: b.mihaljevic@upm.es
 - Teléfono: +34-91-067-2903
