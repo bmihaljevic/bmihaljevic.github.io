@@ -109,13 +109,13 @@ a.button:hover {
     <span class="material-icons">
     schedule
     </span><br/>
-      <span>21 horas</span>
+      <span>24 horas</span>
     </div>
     <div class="icon_wide icon"> 
     <span class="material-icons">
     calendar_month
     </span><br/> 
-      <span>23 noviembre - 19 diciembre</span>
+      <span>21 mayo - 13 junio</span>
     </div>
     <div class="icon"> 
     <span class="material-icons">
@@ -137,7 +137,7 @@ a.button:hover {
 <br/>
 
 
-Curso de 21 horas, repartidas en 7 sesiones de 3 horas, impartidas de forma online. Más detalles en [Formato](#format).  
+Curso de 24 horas, repartidas en 8 sesiones de 3 horas, impartidas de forma online. Más detalles en [Formato](#format).  
 
 <center>
 <a href="#enroll" class="button">Inscribirse</a>
@@ -216,18 +216,19 @@ El curso está dirigido a profesionales que tienen algo de experiencia en, o al 
 
 ## Fechas
 
-La duración del curso es de 21 horas, repartidas en 7 sesiones de 3 horas, a lo largo de 5 semanas. El curso arranca el 23 de noviembre y concluye el 19 de diciembre. Hay dos sesiones semanales, los días martes y jueves, menos el dia 4 de diciembre que es un lunes. 
+La duración del curso es de 24 horas, repartidas en 8 sesiones de 3 horas, a lo largo de 5 semanas. El curso arranca el 21 de mayo y concluye el 13 de junio. Hay dos sesiones semanales, los días martes y jueves. 
 
 
 | Semana | Fecha       | Día de semana | Horario          | 
 |------|------------|-------------|-------------------|
-| 1    | 2023-11-23 | Jueves    | 19:00 - 22:00     | 
-| 2    | 2023-11-28 | Martes     | 19:00 - 22:00     |
-| 2    | 2023-11-30 | Jueves    | 19:00 - 22:00     | 
-| 3    | 2023-12-04 | Lunes      | 19:00 - 22:00     |
-| 4    | 2023-12-12 | Martes     | 19:00 - 22:00     |
-| 4    | 2023-12-14 | Jueves    | 19:00 - 22:00     |
-| 5    | 2023-12-19 | Martes     | 19:00 - 22:00     |
+| 1    | 2024-05-21 | Martes    | 19:00 - 22:00     | 
+| 1    | 2024-05-23 | Jueves    | 19:00 - 22:00     | 
+| 2    | 2024-05-28 | Martes     | 19:00 - 22:00     |
+| 2    | 2024-05-30 | Jueves    | 19:00 - 22:00     | 
+| 3    | 2024-06-04 | Martes    | 19:00 - 22:00     |
+| 3    | 2024-06-06 | Jueves   | 19:00 - 22:00     |
+| 4    | 2024-06-11 | Martes     | 19:00 - 22:00     |
+| 4    | 2024-06-13 | Jueves    | 19:00 - 22:00     |
 
 
 ## Modalidad
@@ -250,14 +251,14 @@ Empezamos elaborando informes desde el primer día y usamos la práctica para mo
 
 
 ## Profesorado
-Bojan Mihaljevic, profesor de Inteligencia Artificial de la UPM.  
+Bojan Mihaljevic, [profesor](http://www.dia.fi.upm.es/en/bmihaljevic) del Departamento de Inteligencia Artificial de la Universidad Politécnica de Madrid.
 
 # Inscribirse
 
 
 <a name="enroll"></a>
 
-La inscripción cierra el miércoles 17 de noviembre a las 18:00 horas, mientras que el precio reducibo es aplicable hasta el 3 de noviembre (see [Precio](#fees)). Para matricularse es necesario pagar la cuota de inscripción y luego proporcionar los siguientes datos por correo electrónico (ver [Contacto](#contact)):
+La inscripción cierra el miércoles 15 de mayo a las 18:00 horas, mientras que el precio reducibo es aplicable hasta el 30 de abril (see [Precio](#fees)). Para matricularse es necesario pagar la cuota de inscripción y luego proporcionar los siguientes datos por correo electrónico (ver [Contacto](#contact)):
 
 - Nombre completo;
 - Número de DNI o pasaporte;
@@ -288,13 +289,13 @@ Por favor contácta con nosotros (ver [Contacto](#contact)) si necesitas una fac
 
 <a name="fees"></a>
 
-Para inscripciones anteriores al día 3 de noviembre es aplicable un precio reducido: 
+Para inscripciones no posteriores al día 30 de abril es aplicable un precio reducido: 
 
-Antes del 3 de noviembre | Despúes del 3 de noviembre |
+Antes del 30 de abril | Despúes del 30 de abril |
 ----------|----------|
  580 &euro; | 660 &euro; |  
 
-A estos precios es aplicable un descuento del 15% para antiguos alumnos de la UPM. 
+A estos precios es aplicable un descuento del 15% para alumnos y antiguos alumnos de la Universidad Politécnica de Madrid. 
 
  
 
@@ -308,7 +309,7 @@ Necesitará Power BI Desktop (gratuito) y un ordenador con Windows. Se enviarán
 
 - **¿Se puede pagar con tarjeta?**
 
-Los pagos con tarjeta no estan habilitados actualmente. Si no ve alternativas viables al pago con tarjeta, por favor pongase en contacto con nosotros.    
+Los pagos con tarjeta no estan habilitados actualmente. Si no ve alternativas viables al pago con tarjeta, por favor póngase en contacto con nosotros.    
 - **¿Recibiré un certificado?**
 
 Sí, los estudiantes que asistan al curso obtendrán un certificado de asistencia. Si bien las clases se grabarán y los estudiantes tendrán podrán verlas en diferido, es necesario asistir en directo a 6 de las 7 sesiones para poder optar al certificado de asistencia. El certificado también indicará si el estudiante ha aprobado/reprobado/se ha saltado el examen final.  
