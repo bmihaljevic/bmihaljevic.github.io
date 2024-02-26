@@ -276,7 +276,7 @@ El pago es mediante transferencia bancaria. Actualmente no están habilitados lo
 Los datos bancarios para el pago son:
 
 - **IBAN**: ES83-0182-2370-4200-1299-8933  
-- **Concepto**: Curso “Análisis de datos con Power BI” (43844819025)  
+- **Concepto**: Curso “Análisis de datos con Power BI” (43844819027)  
 - **Titular de la cuenta**: Fundación General de la Universidad Politécnica de Madrid  
 - **Dirección del titular de la cuenta**: C/ Pastor nº 3, 28003, Madrid  
 - **Nombre del banco**: Banco Bilbao Vizcaya Argentaria BBVA  
