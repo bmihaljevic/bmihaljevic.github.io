@@ -94,8 +94,12 @@ a.button:hover {
 
 <div style="text-align: center;">
 
+<a href="https://www.upm.es/">
 <img src="../files/upm.png" height="200px" style="height: 200px;"/>
-<img src="../files/fg.jpg" height="200px"  style="height: 200px;"/>
+</a>
+<a href="https://www.fgupm.es/">
+    <img src="../files/fg.jpg" height="200px" style="height: 200px;" />
+</a>
 
 <br/>
 <br/>
@@ -121,7 +125,7 @@ a.button:hover {
     <span class="material-icons">
     view_stream
     </span><br/> 
-      <span>Online</span>
+      <span>Online (Síncrono)</span>
     </div> 
     <div class="icon">
 
@@ -137,7 +141,7 @@ a.button:hover {
 <br/>
 
 
-Curso de 24 horas, repartidas en 8 sesiones de 3 horas, impartidas de forma online. Más detalles en [Formato](#format).  
+Curso de 24 horas, repartidas en 8 sesiones de 3 horas, impartidas de forma online síncrona. Más detalles en [Formato](#format).  
 
 <center>
 <a href="#enroll" class="button">Inscribirse</a>
@@ -216,7 +220,7 @@ El curso está dirigido a profesionales que tienen algo de experiencia en, o al 
 
 ## Fechas
 
-La duración del curso es de 24 horas, repartidas en 8 sesiones de 3 horas, a lo largo de 5 semanas. El curso arranca el 21 de mayo y concluye el 13 de junio. Hay dos sesiones semanales, los días martes y jueves. 
+La duración del curso es de 24 horas, repartidas en 8 sesiones síncronas de 3 horas, a lo largo de 5 semanas. El curso arranca el 21 de mayo y concluye el 13 de junio. Hay dos sesiones semanales, los días martes y jueves. 
 
 
 | Semana | Fecha       | Día de semana | Horario          | 
@@ -258,7 +262,7 @@ Bojan Mihaljevic, [profesor](http://www.dia.fi.upm.es/en/bmihaljevic) del Depart
 
 <a name="enroll"></a>
 
-La inscripción cierra el miércoles 15 de mayo a las 18:00 horas, mientras que el precio reducibo es aplicable hasta el 30 de abril (see [Precio](#fees)). Para matricularse es necesario pagar la cuota de inscripción y luego proporcionar los siguientes datos por correo electrónico (ver [Contacto](#contact)):
+La inscripción cierra el miércoles 15 de mayo a las 18:00 horas, mientras que el precio reducido es aplicable hasta el 30 de abril (see [Precio](#fees)). Para matricularse es necesario pagar la cuota de inscripción y luego proporcionar los siguientes datos por correo electrónico (ver [Contacto](#contact)):
 
 - Nombre completo;
 - Número de DNI o pasaporte;
