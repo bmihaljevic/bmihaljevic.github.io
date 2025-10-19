@@ -12,8 +12,8 @@ main:
   - title: "Software"
     url: /portfolio/
         
-  - title: "CV"
-    url: /cv/
+    #  - title: "CV"
+    #url: /cv/
 
     #- title: "Curso Power BI"
     #url: /powerbi/ 

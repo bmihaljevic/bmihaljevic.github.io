@@ -15,3 +15,6 @@ Author of the [bnclassify](https://cran.r-project.org/web/packages/bnclassify/in
 Experience teaching artificial intelligence, machine learning and statistics courses at the undergraduate and master's level, in both English and Spanish. Over 90 lecture hours taught in standalone workshops and courses, including at institutions such as the Real Academia de Ingenierı́a. Have been coordinating the [Machine Learning and Advanced Statistics](http://dia.fi.upm.es/es/MLAS) summer school since 2014. 
 
 A year's experience working as data science consultant in real estate appraisal and five years' experience as a Java developer in the industry.
+
+My CV is available [here](../files/cv.pdf).
+
